@@ -1,0 +1,11 @@
+C:\Users\Guilherme Marzochi\Desktop\YasuoBuddy\DuckSongYasuo\YasuoBuddy\YasuoBuddy\bin\Debug\YasuoBuddy.exe.config
+C:\Users\Guilherme Marzochi\Desktop\YasuoBuddy\DuckSongYasuo\YasuoBuddy\YasuoBuddy\bin\Debug\YasuoBuddy.exe
+C:\Users\Guilherme Marzochi\Desktop\YasuoBuddy\DuckSongYasuo\YasuoBuddy\YasuoBuddy\bin\Debug\YasuoBuddy.pdb
+C:\Users\Guilherme Marzochi\Desktop\YasuoBuddy\DuckSongYasuo\YasuoBuddy\YasuoBuddy\bin\Debug\EloBuddy.dll
+C:\Users\Guilherme Marzochi\Desktop\YasuoBuddy\DuckSongYasuo\YasuoBuddy\YasuoBuddy\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Guilherme Marzochi\Desktop\YasuoBuddy\DuckSongYasuo\YasuoBuddy\YasuoBuddy\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Guilherme Marzochi\Desktop\YasuoBuddy\DuckSongYasuo\YasuoBuddy\YasuoBuddy\bin\Debug\SharpDX.dll
+C:\Users\Guilherme Marzochi\Desktop\YasuoBuddy\DuckSongYasuo\YasuoBuddy\YasuoBuddy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guilherme Marzochi\Desktop\YasuoBuddy\DuckSongYasuo\YasuoBuddy\YasuoBuddy\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Guilherme Marzochi\Desktop\YasuoBuddy\DuckSongYasuo\YasuoBuddy\YasuoBuddy\obj\Debug\YasuoBuddy.exe
+C:\Users\Guilherme Marzochi\Desktop\YasuoBuddy\DuckSongYasuo\YasuoBuddy\YasuoBuddy\obj\Debug\YasuoBuddy.pdb
